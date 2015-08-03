@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Simle.System.Site"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Simle.System.Site-6496e27d-f9e0-41e8-a781-463a3cf28c94;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
