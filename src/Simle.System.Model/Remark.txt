@@ -1,0 +1,3 @@
+﻿Simle.System.Model
+
+该项目只放置 多个 项目共用的 用于View与Controller交互 的相关Model数据

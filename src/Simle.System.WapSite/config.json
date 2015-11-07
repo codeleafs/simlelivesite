@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Simle.System.WapSite"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Simle.System.WapSite-8657fd96-b762-4fff-b54d-72f63ffd4cd9;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
